@@ -27,7 +27,7 @@ Usage
   - (2). Download required Python package
   .. code-block:: linux
 
-         pip install numpy requests torch torchvision rdkit-pypi sklearn
+         pip install numpy requests torch torchvision rdkit-pypi scikit-learn
 
   - (3). Change directory to ``DeeplearningApproach`` under the DLKcat package
   .. code-block:: linux
